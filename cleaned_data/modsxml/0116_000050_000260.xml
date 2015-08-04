@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0116_000050_000260</identifier>
+   <identifier type="isbn">1881985253</identifier>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n80083301">
+      <namePart>Children's Defense Fund (U.S.)</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/org">Originator</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n2001145744">
+      <namePart>Edmunds, Margo</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n88668659">
+      <namePart>Teitelbaum, Martha Ann</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n2001145745">
+      <namePart>Gleason, Cassy</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>All Over the Map: A Progress Report on the State Children's Health Insurance Program (CHIP)</title>
+   </titleInfo>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <publisher>Children's Defense Fund (U.S.)</publisher>
+      <dateCreated>2000</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">2000</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027267">reports</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>This study looks at the impact of the State ChiLdren's Health Insurance Program (CHIP) and suggests ways for states to successfully provide healthcare coverage for children.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <note>The University of Tennessee Libraries (Knoxville, Tennessee) is the digital publisher.</note>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no99007367">
+         <namePart>State Children's Health Insurance Program (U.S.)</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Children's Defense Fund Digital Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">You may copy reprint, publish, reproduce, or otherwise display materials created by CDF or CDFAC and made available through a Children's Defense Fund Site (collectively, the "Children's Defense Fund Works") on the condition that you attribute those materials to CDF. Form of attribution to use: This material was created by the Children's Defense Fund.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0116_000050_000260</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>
