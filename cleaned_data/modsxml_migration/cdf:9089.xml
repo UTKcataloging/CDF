@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0116_000050_000292</identifier>
+   <identifier type="pid">cdf:9089</identifier>
+   <identifier type="isbn">938008773</identifier>
+   <titleInfo>
+      <title>S.O.S America! A Children's Defense Budget</title>
+   </titleInfo>
+   <abstract>A Children's Defense Budget</abstract>
+   <originInfo>
+      <dateIssued>1990</dateIssued>
+      <dateIssued encoding="edtf" point="start" keyDate="yes">1990</dateIssued>
+      <publisher>Children's Defense Fund (U.S.)</publisher>
+   </originInfo>
+   <physicalDescription>
+      <form authority="http://vocab.getty.edu/aat/300027275">corporation reports</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <name valueURI="http://id.loc.gov/authorities/names/n80083301"
+         authority="naf">
+      <namePart>Children's Defense Fund (U.S.)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/org">Originator</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <geographic valueURI="http://id.loc.gov/vocabulary/geographicAreas/n-us">United States</geographic>
+   </subject>
+   <subject>
+      <topic valueURI="http://id.loc.gov/authorities/subjects/sh85017602">Budget</topic>
+   </subject>
+   <relatedItem type="host" displayLabel="Digital Collection">
+      <titleInfo>
+         <title>Children's Defense Fund</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation>
+   </location>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

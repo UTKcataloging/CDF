@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0116_000050_000203</identifier>
+   <identifier type="pid">cdf:1579</identifier>
+   <titleInfo>
+      <title>The Grandparent's and Other Relative Caregiver's Guide to Raising Children With Disabilities</title>
+   </titleInfo>
+   <abstract>A guide to federal, state, and local disability programs for relatives raising young children.</abstract>
+   <originInfo>
+      <dateIssued>2002</dateIssued>
+      <dateIssued encoding="edtf" point="start" keyDate="yes">2002</dateIssued>
+      <publisher>Children's Defense Fund (U.S.)</publisher>
+   </originInfo>
+   <physicalDescription>
+      <form authority="http://vocab.getty.edu/aat/300027267">reports</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <name valueURI="http://id.loc.gov/authorities/names/n80083301"
+         authority="naf">
+      <namePart>Children's Defense Fund (U.S.)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/org">Originator</roleTerm>
+      </role>
+   </name>
+   <name valueURI="http://id.loc.gov/authorities/names/n89669890"
+         authority="naf">
+      <namePart>Schulzinger, Rhoda</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <geographic valueURI="http://id.loc.gov/vocabulary/geographicAreas/n-us">United States</geographic>
+   </subject>
+   <subject>
+      <topic valueURI="http://id.loc.gov/authorities/subjects/sh85058689">Children with disabilities</topic>
+   </subject>
+   <subject>
+      <topic valueURI="http://id.loc.gov/authorities/subjects/sh94004611">Grandparents as parents</topic>
+   </subject>
+   <subject>
+      <topic valueURI="http://id.loc.gov/authorities/subjects/sh88007577">Caregivers</topic>
+   </subject>
+   <subject>
+      <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023425">Children--Health and hygiene</topic>
+   </subject>
+   <relatedItem type="host" displayLabel="Digital Collection">
+      <titleInfo>
+         <title>Children's Defense Fund</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation>
+   </location>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

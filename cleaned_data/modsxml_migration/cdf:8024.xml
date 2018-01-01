@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0116_000050_000260</identifier>
+   <identifier type="pid">cdf:8024</identifier>
+   <identifier type="isbn">1881985253</identifier>
+   <titleInfo>
+      <title>All Over the Map: A Progress Report on the State Children's Health Insurance Program (CHIP)</title>
+   </titleInfo>
+   <abstract>This study looks at the impact of the State Children's Health Insurance Program (CHIP) and suggests ways for states to successfully provide healthcare coverage for children.</abstract>
+   <originInfo>
+      <dateIssued>2000</dateIssued>
+      <dateIssued encoding="edtf" point="start" keyDate="yes">2000</dateIssued>
+      <publisher>Children's Defense Fund (U.S.)</publisher>
+   </originInfo>
+   <physicalDescription>
+      <form authority="http://vocab.getty.edu/aat/300027267">reports</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <name valueURI="http://id.loc.gov/authorities/names/n80083301"
+         authority="naf">
+      <namePart>Children's Defense Fund (U.S.)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/org">Originator</roleTerm>
+      </role>
+   </name>
+   <name valueURI="http://id.loc.gov/authorities/names/n2001145744"
+         authority="naf">
+      <namePart>Edmunds, Margo</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+      </role>
+   </name>
+   <name valueURI="http://id.loc.gov/authorities/names/n88668659"
+         authority="naf">
+      <namePart>Teitelbaum, Martha Ann</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+      </role>
+   </name>
+   <name valueURI="http://id.loc.gov/authorities/names/n2001145745"
+         authority="naf">
+      <namePart>Gleason, Cassy</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ctb">Contributor</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <geographic valueURI="http://id.loc.gov/vocabulary/geographicAreas/n-us">United States</geographic>
+   </subject>
+   <subject>
+      <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023396">Child welfare</topic>
+   </subject>
+   <subject>
+      <topic valueURI="http://id.loc.gov/authorities/subjects/sh85023366">Child health services</topic>
+   </subject>
+   <subject>
+      <topic valueURI="http://id.loc.gov/authorities/subjects/sh85066943">Health insurance--United States</topic>
+   </subject>
+   <subject>
+      <name valueURI="http://id.loc.gov/authorities/names/no99007367">
+         <namePart>State Children's Health Insurance Program (U.S.)</namePart>
+      </name>
+   </subject>
+   <relatedItem type="host" displayLabel="Digital Collection">
+      <titleInfo>
+         <title>Children's Defense Fund</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation>
+   </location>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
