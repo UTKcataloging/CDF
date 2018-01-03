@@ -29,12 +29,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000202</identifier>
 <identifier type="pid">cdf:1668</identifier>
 
@@ -62,6 +64,7 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023366">Child health services</topic></subject>
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh94004611">Grandparents as parents</topic></subject>
 
+
 <subject><name valueURI="http://id.loc.gov/authorities/names/no99007367"><namePart>State Children's Health Insurance Program (U.S.)</namePart></name></subject>
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -69,7 +72,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000204</identifier>
 <identifier type="pid">cdf:1356</identifier>
 
@@ -99,12 +103,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000205</identifier>
 <identifier type="pid">cdf:1079</identifier>
 
@@ -134,12 +140,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000206</identifier>
 <identifier type="pid">cdf:774</identifier>
 
@@ -169,12 +177,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000208</identifier>
 <identifier type="pid">cdf:220</identifier>
 
@@ -204,12 +214,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000210</identifier>
 <identifier type="pid">cdf:2661</identifier>
 <identifier type="isbn">18819859105</identifier><identifier type="issn">10559213</identifier>
@@ -237,6 +249,7 @@
 
 
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -244,7 +257,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000211</identifier>
 <identifier type="pid">cdf:2516</identifier>
 <identifier type="isbn">1881985113</identifier><identifier type="issn">10843191</identifier>
@@ -269,7 +283,8 @@
 
 <subject><geographic valueURI="http://id.loc.gov/vocabulary/geographicAreas/n-us">United States</geographic></subject>
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023396">Child welfare</topic></subject>
-<subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023396">Child welfare</topic></subject>
+
+
 
 
 
@@ -279,7 +294,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000212</identifier>
 <identifier type="pid">cdf:2399</identifier>
 
@@ -304,9 +320,10 @@
 
 <subject><geographic valueURI="http://id.loc.gov/vocabulary/geographicAreas/n-us">United States</geographic></subject>
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023396">Child welfare</topic></subject>
-<subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023396">Child welfare</topic></subject>
 
 
+
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -314,7 +331,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000213</identifier>
 <identifier type="pid">cdf:2288</identifier>
 
@@ -342,6 +360,7 @@
 
 
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -349,7 +368,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000214</identifier>
 <identifier type="pid">cdf:2179</identifier>
 
@@ -377,6 +397,7 @@
 
 
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -384,7 +405,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000215</identifier>
 <identifier type="pid">cdf:2070</identifier>
 
@@ -412,6 +434,7 @@
 
 
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -419,7 +442,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000216</identifier>
 <identifier type="pid">cdf:10215</identifier>
 <identifier type="isbn">0938008862</identifier>
@@ -447,6 +471,7 @@
 
 
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -454,7 +479,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000218</identifier>
 <identifier type="pid">cdf:1909</identifier>
 <identifier type="isbn">0938008927</identifier><identifier type="issn">10559213</identifier>
@@ -482,6 +508,7 @@
 
 
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -489,7 +516,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000219</identifier>
 <identifier type="pid">cdf:1721</identifier>
 <identifier type="isbn">938008773</identifier>
@@ -517,6 +545,7 @@
 
 
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -524,7 +553,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000220</identifier>
 <identifier type="pid">cdf:3794</identifier>
 <identifier type="isbn">188198513X</identifier><identifier type="issn">10843191</identifier>
@@ -552,6 +582,7 @@
 
 
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -559,7 +590,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000221</identifier>
 <identifier type="pid">cdf:3609</identifier>
 
@@ -587,6 +619,7 @@
 
 
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -594,7 +627,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000222</identifier>
 <identifier type="pid">cdf:3488</identifier>
 
@@ -622,6 +656,7 @@
 
 
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -629,7 +664,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000223</identifier>
 <identifier type="pid">cdf:3305</identifier>
 <identifier type="isbn">1881985318</identifier><identifier type="issn">10843191</identifier>
@@ -657,6 +693,7 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subject/sh2008100423">Children's rights</topic></subject>
 
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -664,7 +701,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000224</identifier>
 <identifier type="pid">cdf:3148</identifier>
 <identifier type="isbn">1881985164</identifier><identifier type="issn">10843191</identifier>
@@ -692,6 +730,7 @@
 
 
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -699,7 +738,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000225</identifier>
 <identifier type="pid">cdf:2955</identifier>
 
@@ -727,6 +767,7 @@
 
 
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -734,7 +775,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000226</identifier>
 <identifier type="pid">cdf:2922</identifier>
 
@@ -764,12 +806,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000227</identifier>
 <identifier type="pid">cdf:2880</identifier>
 
@@ -799,12 +843,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000228</identifier>
 <identifier type="pid">cdf:2843</identifier>
 
@@ -834,12 +880,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000229</identifier>
 <identifier type="pid">cdf:2810</identifier>
 
@@ -869,12 +917,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000230</identifier>
 <identifier type="pid">cdf:5384</identifier>
 
@@ -904,12 +954,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000231</identifier>
 <identifier type="pid">cdf:5335</identifier>
 
@@ -939,16 +991,18 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000240</identifier>
 <identifier type="pid">cdf:5966</identifier>
 
-<titleInfo><title>The Adolescent &amp; Young Adult Fact Book</title></titleInfo>
+<titleInfo><title>The Adolescent & Young Adult Fact Book</title></titleInfo>
 <abstract>An assessment of the current state of America's Children.</abstract>
 <originInfo><dateIssued>1991</dateIssued><dateIssued encoding="edtf" point="start" keyDate="yes">1991</dateIssued><publisher>Children's Defense Fund (U.S.)</publisher></originInfo>
 <physicalDescription><form authority="http://vocab.getty.edu/aat/300027267">reports</form><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
@@ -972,6 +1026,7 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85149341">Youth--Services for</topic></subject>
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh87006824">Teenagers</topic></subject>
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -979,7 +1034,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000241</identifier>
 <identifier type="pid">cdf:5893</identifier>
 
@@ -1009,12 +1065,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000242</identifier>
 <identifier type="pid">cdf:5828</identifier>
 
@@ -1044,12 +1102,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000243</identifier>
 <identifier type="pid">cdf:5779</identifier>
 
@@ -1079,12 +1139,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000244</identifier>
 <identifier type="pid">cdf:5632</identifier>
 
@@ -1112,6 +1174,7 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85085868">Minority youth</topic></subject>
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023563">Children of minorities</topic></subject>
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -1119,7 +1182,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000246</identifier>
 <identifier type="pid">cdf:5504</identifier>
 
@@ -1149,12 +1213,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000247</identifier>
 <identifier type="pid">cdf:5475</identifier>
 
@@ -1184,12 +1250,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000248</identifier>
 <identifier type="pid">cdf:5442</identifier>
 
@@ -1219,12 +1287,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000250</identifier>
 <identifier type="pid">cdf:6378</identifier>
 
@@ -1254,12 +1324,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000251</identifier>
 <identifier type="pid">cdf:6365</identifier>
 
@@ -1289,12 +1361,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000252</identifier>
 <identifier type="pid">cdf:6352</identifier>
 
@@ -1324,12 +1398,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000255</identifier>
 <identifier type="pid">cdf:6293</identifier>
 
@@ -1359,12 +1435,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000257</identifier>
 <identifier type="pid">cdf:6223</identifier>
 
@@ -1394,12 +1472,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000258</identifier>
 <identifier type="pid">cdf:6186</identifier>
 
@@ -1427,6 +1507,7 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85001809">African American children</topic></subject>
 
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -1434,7 +1515,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000259</identifier>
 <identifier type="pid">cdf:6135</identifier>
 
@@ -1464,12 +1546,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000260</identifier>
 <identifier type="pid">cdf:8024</identifier>
 <identifier type="isbn">1881985253</identifier>
@@ -1497,6 +1581,7 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023366">Child health services</topic></subject>
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85066943">Health insurance--United States</topic></subject>
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 <subject><name valueURI="http://id.loc.gov/authorities/names/no99007367"><namePart>State Children's Health Insurance Program (U.S.)</namePart></name></subject>
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -1504,7 +1589,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000261</identifier>
 <identifier type="pid">cdf:7983</identifier>
 <identifier type="issn">10559221</identifier>
@@ -1534,12 +1620,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000262</identifier>
 <identifier type="pid">cdf:7850</identifier>
 
@@ -1569,12 +1657,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000263</identifier>
 <identifier type="pid">cdf:7741</identifier>
 
@@ -1604,12 +1694,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000264</identifier>
 <identifier type="pid">cdf:7416</identifier>
 
@@ -1637,6 +1729,7 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023366">Child health services</topic></subject>
 
 
+
 <subject><name valueURI="http://id.loc.gov/authorities/names/n86014229"><namePart>Early and Periodic Screening, Diagnosis, and Treatment Program (U.S.)</namePart></name></subject>
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -1644,7 +1737,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000265</identifier>
 <identifier type="pid">cdf:7395</identifier>
 
@@ -1674,12 +1768,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000274</identifier>
 <identifier type="pid">cdf:8304</identifier>
 
@@ -1709,12 +1805,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000275</identifier>
 <identifier type="pid">cdf:8251</identifier>
 
@@ -1744,12 +1842,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000276</identifier>
 <identifier type="pid">cdf:8222</identifier>
 
@@ -1779,12 +1879,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000277</identifier>
 <identifier type="pid">cdf:8201</identifier>
 
@@ -1814,12 +1916,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000280</identifier>
 <identifier type="pid">cdf:10194</identifier>
 
@@ -1849,12 +1953,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000282</identifier>
 <identifier type="pid">cdf:10148</identifier>
 
@@ -1884,12 +1990,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000283</identifier>
 <identifier type="pid">cdf:10127</identifier>
 
@@ -1919,12 +2027,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000284</identifier>
 <identifier type="pid">cdf:10094</identifier>
 
@@ -1954,12 +2064,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000286</identifier>
 <identifier type="pid">cdf:9916</identifier>
 <identifier type="isbn">0938008994</identifier>
@@ -1987,6 +2099,7 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85001809">African American children</topic></subject>
 
 
+<subject><topic authority="local">State of America's Children</topic></subject>
 
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -1994,7 +2107,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000287</identifier>
 <identifier type="pid">cdf:9871</identifier>
 
@@ -2024,12 +2138,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000305</identifier>
 <identifier type="pid">cdf:10400</identifier>
 
@@ -2059,12 +2175,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000307</identifier>
 <identifier type="pid">cdf:10402</identifier>
 
@@ -2093,13 +2211,15 @@
 
 
 
+
 <relatedItem type="series"><titleInfo><title>Child Advocacy Ministry</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000308</identifier>
 <identifier type="pid">cdf:10403</identifier>
 
@@ -2129,12 +2249,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000311</identifier>
 <identifier type="pid">cdf:10406</identifier>
 
@@ -2164,12 +2286,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000312</identifier>
 <identifier type="pid">cdf:10407</identifier>
 
@@ -2198,13 +2322,15 @@
 
 
 
+
 <relatedItem type="series"><titleInfo><title>Child Advocacy Ministry</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000313</identifier>
 <identifier type="pid">cdf:10408</identifier>
 
@@ -2233,13 +2359,15 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023773">Children's rights</topic></subject>
 
 
+
 <relatedItem type="series"><titleInfo><title>Child Advocacy Ministry</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000314</identifier>
 <identifier type="pid">cdf:10409</identifier>
 
@@ -2268,13 +2396,15 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023773">Children's rights</topic></subject>
 
 
+
 <relatedItem type="series"><titleInfo><title>Child Advocacy Ministry</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000315</identifier>
 <identifier type="pid">cdf:10410</identifier>
 
@@ -2302,6 +2432,7 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85025784">Church work with children</topic></subject>
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023773">Children's rights</topic></subject>
 
+
 <subject><name valueURI="http://id.loc.gov/authorities/names/no93028993"><namePart>Blackwell, Unita, 1933-</namePart></name></subject>
 <relatedItem type="series"><titleInfo><title>Child Advocacy Ministry</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -2309,7 +2440,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000316</identifier>
 <identifier type="pid">cdf:10411</identifier>
 
@@ -2339,12 +2471,14 @@
 
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000317</identifier>
 <identifier type="pid">cdf:10412</identifier>
 
@@ -2373,13 +2507,15 @@
 
 
 
+
 <relatedItem type="series"><titleInfo><title>Child Advocacy Ministry</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000267</identifier>
 <identifier type="pid">cdf:6909</identifier>
 <identifier type="isbn">0938008501</identifier><identifier type="issn">7366701</identifier>
@@ -2409,12 +2545,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85017602">Budget</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000268</identifier>
 <identifier type="pid">cdf:6640</identifier>
 <identifier type="isbn">0938008013</identifier><identifier type="issn">7366701</identifier>
@@ -2444,12 +2582,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85017602">Budget</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000269</identifier>
 <identifier type="pid">cdf:6395</identifier>
 
@@ -2479,12 +2619,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85017602">Budget</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000270</identifier>
 <identifier type="pid">cdf:8764</identifier>
 <identifier type="isbn">0938008404</identifier><identifier type="issn">7366701</identifier>
@@ -2514,12 +2656,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85017602">Budget</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000271</identifier>
 <identifier type="pid">cdf:8419</identifier>
 
@@ -2549,12 +2693,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85017602">Budget</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000289</identifier>
 <identifier type="pid">cdf:9561</identifier>
 <identifier type="isbn">938008307</identifier><identifier type="issn">7366701</identifier>
@@ -2584,12 +2730,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85017602">Budget</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000290</identifier>
 <identifier type="pid">cdf:9487</identifier>
 
@@ -2619,12 +2767,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85017602">Budget</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000291</identifier>
 <identifier type="pid">cdf:9278</identifier>
 <identifier type="isbn">938008676</identifier>
@@ -2654,12 +2804,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85017602">Budget</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000292</identifier>
 <identifier type="pid">cdf:9089</identifier>
 <identifier type="isbn">938008773</identifier>
@@ -2689,12 +2841,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85017602">Budget</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000239</identifier>
 <identifier type="pid">cdf:3943</identifier>
 
@@ -2724,12 +2878,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023354">Child care</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000245</identifier>
 <identifier type="pid">cdf:5541</identifier>
 
@@ -2759,12 +2915,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023396">Child welfare</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000203</identifier>
 <identifier type="pid">cdf:1579</identifier>
 
@@ -2794,12 +2952,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023425">Children--Health and hygiene</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000253</identifier>
 <identifier type="pid">cdf:6331</identifier>
 
@@ -2829,12 +2989,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023425">Children--Health and hygiene</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000232</identifier>
 <identifier type="pid">cdf:5264</identifier>
 
@@ -2864,12 +3026,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023773">Children's rights</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000234</identifier>
 <identifier type="pid">cdf:4926</identifier>
 
@@ -2899,12 +3063,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023773">Children's rights</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000235</identifier>
 <identifier type="pid">cdf:4813</identifier>
 
@@ -2934,12 +3100,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023773">Children's rights</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000236</identifier>
 <identifier type="pid">cdf:4648</identifier>
 
@@ -2969,12 +3137,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023773">Children's rights</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000237</identifier>
 <identifier type="pid">cdf:4421</identifier>
 
@@ -3004,12 +3174,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023773">Children's rights</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000238</identifier>
 <identifier type="pid">cdf:4196</identifier>
 
@@ -3039,12 +3211,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023773">Children's rights</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000272</identifier>
 <identifier type="pid">cdf:8382</identifier>
 
@@ -3074,12 +3248,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023773">Children's rights</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000278</identifier>
 <identifier type="pid">cdf:8168</identifier>
 
@@ -3109,12 +3285,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023773">Children's rights</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000279</identifier>
 <identifier type="pid">cdf:8123</identifier>
 
@@ -3144,12 +3322,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023773">Children's rights</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000288</identifier>
 <identifier type="pid">cdf:9858</identifier>
 
@@ -3179,12 +3359,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85023773">Children's rights</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000200</identifier>
 <identifier type="pid">cdf:1</identifier>
 
@@ -3214,12 +3396,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh99005760">Early childhood education</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000256</identifier>
 <identifier type="pid">cdf:6276</identifier>
 
@@ -3249,12 +3433,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh99005760">Early childhood education</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000207</identifier>
 <identifier type="pid">cdf:385</identifier>
 
@@ -3284,12 +3470,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85041082">Education, Secondary</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000233</identifier>
 <identifier type="pid">cdf:5163</identifier>
 
@@ -3319,12 +3507,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85075480">Leadership</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000249</identifier>
 <identifier type="pid">cdf:5425</identifier>
 
@@ -3354,12 +3544,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85075480">Leadership</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000281</identifier>
 <identifier type="pid">cdf:10169</identifier>
 
@@ -3389,12 +3581,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85075480">Leadership</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000285</identifier>
 <identifier type="pid">cdf:10077</identifier>
 
@@ -3424,12 +3618,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85075480">Leadership</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000266</identifier>
 <identifier type="pid">cdf:7350</identifier>
 
@@ -3459,12 +3655,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh2001007656">Poor youth</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000309</identifier>
 <identifier type="pid">cdf:10404</identifier>
 
@@ -3493,13 +3691,15 @@
 
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85106171">Preaching</topic></subject>
 
+
 <relatedItem type="series"><titleInfo><title>Great Preachers</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000318</identifier>
 <identifier type="pid">cdf:10413</identifier>
 
@@ -3528,13 +3728,15 @@
 
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85106171">Preaching</topic></subject>
 
+
 <relatedItem type="series"><titleInfo><title>Great Preachers</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000321</identifier>
 <identifier type="pid">cdf:10416</identifier>
 
@@ -3563,13 +3765,15 @@
 
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85106171">Preaching</topic></subject>
 
+
 <relatedItem type="series"><titleInfo><title>Great Preachers</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000322</identifier>
 <identifier type="pid">cdf:10417</identifier>
 
@@ -3598,13 +3802,15 @@
 
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85106171">Preaching</topic></subject>
 
+
 <relatedItem type="series"><titleInfo><title>Great Preachers</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000323</identifier>
 <identifier type="pid">cdf:10418</identifier>
 
@@ -3633,13 +3839,15 @@
 
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85106171">Preaching</topic></subject>
 
+
 <relatedItem type="series"><titleInfo><title>Great Preachers</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000254</identifier>
 <identifier type="pid">cdf:6310</identifier>
 
@@ -3669,12 +3877,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh92002391">Problem youth</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000273</identifier>
 <identifier type="pid">cdf:8337</identifier>
 
@@ -3704,12 +3914,14 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh92002391">Problem youth</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000306</identifier>
 <identifier type="pid">cdf:10401</identifier>
 
@@ -3737,6 +3949,7 @@
 
 
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85126461">Speeches, addresses, etc., American</topic></subject>
+
 <subject><name valueURI="http://id.loc.gov/authorities/names/no90024764"><namePart>Height, Dorothy I. (Dorothy Irene), 1912-2010</namePart></name></subject>
 <relatedItem type="series"><titleInfo><title>Haley Farm Homecoming Speeches</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -3744,7 +3957,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000310</identifier>
 <identifier type="pid">cdf:10405</identifier>
 
@@ -3773,13 +3987,15 @@
 
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85126461">Speeches, addresses, etc., American</topic></subject>
 
+
 <relatedItem type="series"><titleInfo><title>Haley Farm Homecoming Speeches</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000319</identifier>
 <identifier type="pid">cdf:10414</identifier>
 
@@ -3808,13 +4024,15 @@
 
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85126461">Speeches, addresses, etc., American</topic></subject>
 
+
 <relatedItem type="series"><titleInfo><title>Haley Farm Homecoming Speeches</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000320</identifier>
 <identifier type="pid">cdf:10415</identifier>
 
@@ -3842,6 +4060,7 @@
 
 
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85126461">Speeches, addresses, etc., American</topic></subject>
+
 <subject><name valueURI="http://id.loc.gov/authorities/names/n79076628"><namePart>Franklin, John Hope, 1915-2009</namePart></name></subject>
 
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
@@ -3849,7 +4068,8 @@
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000324</identifier>
 <identifier type="pid">cdf:10419</identifier>
 
@@ -3878,13 +4098,15 @@
 
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85126461">Speeches, addresses, etc., American</topic></subject>
 
+
 <relatedItem type="series"><titleInfo><title>Haley Farm Homecoming Speeches</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000325</identifier>
 <identifier type="pid">cdf:10420</identifier>
 
@@ -3913,13 +4135,15 @@
 
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85126461">Speeches, addresses, etc., American</topic></subject>
 
+
 <relatedItem type="series"><titleInfo><title>Haley Farm Homecoming Speeches</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000326</identifier>
 <identifier type="pid">cdf:10421</identifier>
 
@@ -3948,13 +4172,15 @@
 
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh85126461">Speeches, addresses, etc., American</topic></subject>
 
+
 <relatedItem type="series"><titleInfo><title>Haley Farm Homecoming Speeches</title></titleInfo></relatedItem>
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>moving image</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods><mods>
+</mods>
+<mods>
 <identifier type="local">0116_000050_000209</identifier>
 <identifier type="pid">cdf:127</identifier>
 
@@ -3984,9 +4210,11 @@
 <subject><topic valueURI="http://id.loc.gov/authorities/subjects/sh89003236">Spiritual formation</topic></subject>
 
 
+
 <relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>Children's Defense Fund</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2017113530">Langston Hughes Library (Children's Defense Fund Haley Farm)</physicalLocation></location>
 <language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>text</typeOfResource>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods></modsCollection>
+</mods>
+</modsCollection>
