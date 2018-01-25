@@ -46,7 +46,7 @@
       <topic valueURI="http://id.loc.gov/authorities/subjects/sh85001809">African American children</topic>
    </subject>
    <subject>
-      <topic authority="local">State of America's Children</topic>
+      <topic valueURI="http://id.loc.gov/authorities/subjects/sh2008100423">Children's rights--United States</topic>
    </subject>
    <relatedItem type="host" displayLabel="Digital Collection">
       <titleInfo>
