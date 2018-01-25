@@ -975,7 +975,7 @@
 <identifier type="local">0116_000050_000240</identifier>
 <identifier type="pid">cdf:5966</identifier>
 
-<titleInfo><title>The Adolescent & Young Adult Fact Book</title></titleInfo>
+<titleInfo><title>The Adolescent &amp; Young Adult Fact Book</title></titleInfo>
 <abstract>An assessment of the current state of America's Children.</abstract>
 <originInfo><dateIssued>1991</dateIssued><dateIssued encoding="edtf" point="start" keyDate="yes">1991</dateIssued><publisher>Children's Defense Fund (U.S.)</publisher></originInfo>
 <physicalDescription><form authority="http://vocab.getty.edu/aat/300027267">reports</form><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
