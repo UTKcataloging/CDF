@@ -41,7 +41,7 @@ if(isBlank(cells["identifier_issn"].value),'', '<identifier type="issn">' + cell
 {{if(isBlank(cells['subject_topic_2'].value), '', '<subject><topic' + if(isBlank(cells['subject_topic_URI_2'].value), '>', ' valueURI="' + cells['subject_topic_URI_2'].value + '">') + cells['subject_topic_2'].value + '</topic></subject>')}}
 {{if(isBlank(cells['subject_topic_3'].value), '', '<subject><topic' + if(isBlank(cells['subject_topic_URI_3'].value), '>', ' valueURI="' + cells['subject_topic_URI_3'].value + '">') + cells['subject_topic_3'].value + '</topic></subject>')}}
 {{if(isBlank(cells['subject_navigation'].value), '', '<subject><topic' + if(isBlank(cells['navigation_URI'].value), '>', ' valueURI="' + cells['navigation_URI'].value + '">') + cells['subject_navigation'].value + '</topic></subject>')}}
-{{if(isBlank(cells['local_subject'].value), '', '<subject><topic authority="local">' + cells['local_subject'].value + '</topic></subject>')}}
+{{if(isBlank(cells['local_subject'].value), '', '<subject><topic' + if(isBlank(cells['lsubject_URI'].value), '>', ' valueURI="' + cells['lsubject_URI'].value + '">') + cells['local_subject'].value + '</topic></subject>')}}
 {{if(isBlank(cells['subject_name'].value), '', '<subject><name' + if(isBlank(cells['subject_name_URI'].value), '>', ' valueURI="' + cells['subject_name_URI'].value + '">') + '<namePart>' + cells['subject_name'].value + '</namePart></name></subject>')}}
 {{if(isBlank(cells['series_name'].value), '', '<relatedItem type="series"><titleInfo><title>' + cells['series_name'].value + '</title></titleInfo></relatedItem>')}}
 {{'<relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>' + cells['project_title'].value + '</title></titleInfo></relatedItem>'}}
