@@ -45,8 +45,8 @@ if(isBlank(cells["identifier_issn"].value),'', '<identifier type="issn">' + cell
 {{if(isBlank(cells['subject_name'].value), '', '<subject><name' + if(isBlank(cells['subject_name_URI'].value), '>', ' valueURI="' + cells['subject_name_URI'].value + '">') + '<namePart>' + cells['subject_name'].value + '</namePart></name></subject>')}}
 {{if(isBlank(cells['series_name'].value), '', '<relatedItem type="series"><titleInfo><title>' + cells['series_name'].value + '</title></titleInfo></relatedItem>')}}
 {{'<relatedItem type="host" displayLabel="Digital Collection"><titleInfo><title>' + cells['project_title'].value + '</title></titleInfo></relatedItem>'}}
-{{'<recordInfo><recordContentSource valueURI="' + cells['source_URI'].value + '">' + cells['record_source'].value + '</recordContentSource></recordInfo>'}}
-{{if(isBlank(cells['repository'].value), '', '<location><physicalLocation valueURI="' + cells['repository_URI'].value + '">' + cells['repository'].value + '</physicalLocation></location>')}}
+{{'<recordInfo><recordContentSource valueURI="' + cells['repository_URI'].value + '">' + cells['repository'].value + '</recordContentSource></recordInfo>'}}
+{{if(isBlank(cells['record_source'].value), '', '<note displayLabel="Intermediate Provider">' + cells['record_source'].value + '</note>')}}
 {{'<language><languageTerm type="code" authority="iso639-2b">eng</languageTerm></language><typeOfResource>' + cells['item_type'].value + '</typeOfResource>'}}
 {{'<accessCondition type="use and reproduction" xlink:href="' + cells['rights_URI'].value + '">' + cells['standardized_rights'].value + '</accessCondition>'}}
 </mods>
